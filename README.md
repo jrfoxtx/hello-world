@@ -1,2 +1,2 @@
 # hello-world
-Training wheels and miscellaneous nots
+Training wheels and miscellaneous notes
